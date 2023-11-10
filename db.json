@@ -1,8 +1,18 @@
 {
-    "id": 1,
-    "nombre": "Sebastian",
-    "precio": "20.00",
-    "fecha": "12/12/01",
-    "descripcion": "Un excelente servicio me gusta mucha"
-}
-    
+    "ventas": [
+      {
+        "id": 1,
+        "nombre": "Producto 1",
+        "precio": 20.00,
+        "fecha": "12/12/01",
+        "descripcion": "Un excelente servicio que me gusta mucho"
+      },
+      {
+        "id": 2,
+        "nombre": "Producto 2",
+        "precio": 15.00,
+        "fecha": "11/11/02",
+        "descripcion": "Otro producto genial"
+      }
+    ]
+  }
